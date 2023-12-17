@@ -1,3 +1,5 @@
+# v1.2.0 More shtuff
+Added a DP28 back cosmetic & Pokeballs on the hip.
 # v1.1.0 +1
 Adjusted katana position, adjusted halo & particles, 
 
