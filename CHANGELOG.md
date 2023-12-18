@@ -1,3 +1,13 @@
+# v1.3.1 Patching
++ adjusted Changelog
++ adjusted PoG pos
++ reworked halo
++ reworked Katana
++ fixed Metroid to correct file
+# v1.3.0 -
++ added Primarina
++ added Pot of Greed
++ added Metroid
 # v1.2.0 More shtuff
 Added a DP28 back cosmetic & Pokeballs on the hip.
 # v1.1.0 +1
