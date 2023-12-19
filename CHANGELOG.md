@@ -1,3 +1,9 @@
+# v1.4.0 Cosmetics in motion...
++ added the 7 Chaos Emeralds
++ added Majora's Mask
++ added Tengu Mask
++ added Saibamen
++ added Android 21
 # v1.3.1 Patching
 + adjusted Changelog
 + adjusted PoG pos
