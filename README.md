@@ -25,5 +25,8 @@ Saibamen - Model ripped from [Dragon Ball FighterZ](https://www.models-resource.
 
 Tengu Mask - Model by: [Jxcob](https://steamcommunity.com/id/Britchers/)
 
+Bloody Bunny Mask & Knife - Model ripped from [Bloody Bunny: The Game](https://www.models-resource.com/nintendo_switch/bloodybunnythegame/) @ models-resource.com by [Eeveeloverthespriter8](https://www.models-resource.com/submitter/Eeveeloverthespriter8/) & composed by ZechTK
+
+Moai Statue - Model ripped from [Animal Crossing: New Horizons](https://www.models-resource.com/nintendo_switch/animalcrossingnewhorizons/) @ models-resource.com by [Ziella](https://www.models-resource.com/submitter/Ziella/) & composed by ZechTK
 ## Some models appear invisible in the selection screen but should work in game, if you find an issue please report it on the github.
 

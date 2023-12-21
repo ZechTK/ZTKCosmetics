@@ -1,3 +1,6 @@
+# v1.4.1 Small additions
++ added Bloody Bunny mask & Knife
++ added Moai Statue head
 # v1.4.0 Cosmetics in motion...
 + added the 7 Chaos Emeralds
 + added Majora's Mask
