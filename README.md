@@ -28,5 +28,14 @@ Tengu Mask - Model by: [Jxcob](https://steamcommunity.com/id/Britchers/)
 Bloody Bunny Mask & Knife - Model ripped from [Bloody Bunny: The Game](https://www.models-resource.com/nintendo_switch/bloodybunnythegame/) @ models-resource.com by [Eeveeloverthespriter8](https://www.models-resource.com/submitter/Eeveeloverthespriter8/) & composed by ZechTK
 
 Moai Statue - Model ripped from [Animal Crossing: New Horizons](https://www.models-resource.com/nintendo_switch/animalcrossingnewhorizons/) @ models-resource.com by [Ziella](https://www.models-resource.com/submitter/Ziella/) & composed by ZechTK
+
+Hokage Hat - Model ripped from [Naruto to Boruto: Shinobi Striker](https://www.models-resource.com/pc_computer/narutotoborutoshinobistriker/) @ models-resource.com by [ChakraWarrior2012](https://www.models-resource.com/submitter/ChakraWarrior2012/) & composed by ZechTK
+
+Santa Hat & Beard - Model ripped from [Postal 2](https://www.models-resource.com/pc_computer/postal2/) @ models-resource.com by [BillyBnMOfficial](https://www.models-resource.com/submitter/BillyBnMOfficial/) & composed by ZechTK
+
+Chum Bucket Hat - Model ripped from [The SpongeBob SquarePants Movie: The Game](https://www.models-resource.com/pc_computer/thespongebobsquarepantsmovie/) @ models-resource.com by [lemurboy12](https://www.models-resource.com/submitter/lemurboy12/) & composed by ZechTK
+
+Samurai Helmet - Model ripped from [Splatoon 2](https://www.models-resource.com/nintendo_switch/splatoon2/) @ models-resource.com by [Centrixe the Dodo](https://www.models-resource.com/submitter/Centrixe+the+Dodo/) & composed by ZechTK
+
 ## Some models appear invisible in the selection screen but should work in game, if you find an issue please report it on the github.
 

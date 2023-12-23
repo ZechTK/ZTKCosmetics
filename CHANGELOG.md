@@ -1,3 +1,9 @@
+# v1.5.0 The last for a while
+### I'm going to be focusing on learning to create other mods, i've begun working with the LethalExpansionSDK to make scraps and want to focus on that aswell as making my own models & textures.
++ added Hokage Hat
++ added Chum Bucket Hat
++ added Santa Hat
++ added Samurai Helmet
 # v1.4.1 Small additions
 + added Bloody Bunny mask & Knife
 + added Moai Statue head

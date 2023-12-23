@@ -1,6 +1,6 @@
 {
     "name": "ZTKCosmetics",
-    "version_number": "1.4.1",
+    "version_number": "1.5.0",
     "website_url": "https://github.com/ZechTK/ZTKCosmetics",
     "description": "Some custom cosmetics for MoreCompany.",
     "dependencies": [
